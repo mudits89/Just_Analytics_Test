@@ -1,0 +1,18 @@
+numpy
+matplotlib
+pandas 
+sklearn
+statsmodels
+os
+datetime 
+seaborn 
+pyramid-arima
+tweepy
+random shuffle
+nltk
+collections 
+string
+textblob 
+PIL 
+wordcloud
+imblearn	
